@@ -7,5 +7,5 @@
 
 class UserManager extends AbstractManager
 {
-
+    
 }
